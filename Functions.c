@@ -6,7 +6,7 @@ Date:         15 September 2020
 
 /* Preprocessor directives */
 
-#include "lab1_inlab_exercises.h"
+#include <stdio.h>
 #include <stdlib.h> // For system command
 
 /*
